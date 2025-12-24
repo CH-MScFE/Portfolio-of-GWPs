@@ -22,7 +22,9 @@ MScFE692 Capstone Review
 
 
 **Underlying approach**
+
 One team member submits the following on behalf of the entire group:
+
 1. 1 PDF document* of all writing EXCLUDING code
 ○ Make sure that the write-up is a cohesive, well-organized text instead of
 simply a question-and-answer format.
@@ -43,6 +45,7 @@ report should emphasize reasoning, explanations, and the presentation of
 results, rather than being cluttered with raw Python code.
 ○ Use the available Report Template and fill out the required information on
 the first page
+
 2. A zipped folder including:
 ○ An executable Jupyter notebook** that includes the code, its output, and
 the answer to each question. Make certain that you compile the code of all
